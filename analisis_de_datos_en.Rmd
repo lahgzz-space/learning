@@ -1,5 +1,5 @@
 ---
-title: "Análisis de datos en R"
+title: "An?lisis de datos en R"
 output: 
   html_notebook:
     toc: true
@@ -31,7 +31,7 @@ boxplot(x)
 
 ## Bivariado
 ```{r}
-# dispersión
+# dispersi?n
 x <- rnorm(100, mean = 7)
 y <- rnorm(100, mean = 150)
 plot(x, y)
@@ -47,6 +47,7 @@ plot(u, x, type = 'l')
 ```
 
 ## Multivariado
+https://web.stanford.edu/class/bios221/labs/multivariate/lab_5_multivariate.html
 
 # Outliers
 
@@ -72,8 +73,4 @@ plot(x, y)
 ```
 
 ## Multivariado
-
-# solo para ninjas
-- https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
-- https://dl.dropboxusercontent.com/u/12616850/R_Intro_for_Excel.pdf
-- http://www.cookbook-r.com/
+http://r-statistics.co/Outlier-Treatment-With-R.html

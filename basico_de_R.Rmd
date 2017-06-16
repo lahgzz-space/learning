@@ -1,5 +1,5 @@
 ---
-title: "Introducción a R"
+title: "Introducci?n a R"
 author: "marketingIntellence"
 output: 
   html_notebook:
@@ -11,9 +11,6 @@ output:
     number_sections: true
 
 ---
-
-# Sobre este curso
-https://docs.google.com/presentation/d/1VY2oYNfvaIkzjKBxLp_AuG4Z-eydxgNe6-1PFLJVz4k/edit?usp=sharing
 
 # Tipos de datos
 
@@ -63,7 +60,7 @@ as.factor(c(1, 2, 5))
 
 ## vector()
 ```{r}
-c(1, 45, 56, NaN, Inf); c("auto", "mañana", "23 años"); c(1, NA, NaN, "smart tv")
+c(1, 45, 56, NaN, Inf); c("auto", "ma?ana", "23 a?os"); c(1, NA, NaN, "smart tv")
 
 ```
 
@@ -100,6 +97,15 @@ list(c(1, 45, 56), matrix(nrow = 2, ncol = 5))
 
 ```
 
+# using R
+
+```{r}
+iris
+head(iris)
+names(iris)
+str(iris)
+
+```
 
 
 
