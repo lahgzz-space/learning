@@ -1,0 +1,79 @@
+---
+title: "Análisis de datos en R"
+output: 
+  html_notebook:
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+    number_sections: true
+    
+---
+
+# Dimensionalidad
+
+## Univariado
+```{r}
+set.seed(666)
+x <- c(rnorm(10, mean = 5), rnorm(10, mean = 3))
+
+# resumen
+summary(x)
+
+# histograma
+hist(x)
+
+# boxplot
+boxplot(x)
+
+```
+
+## Bivariado
+```{r}
+# dispersión
+x <- rnorm(100, mean = 7)
+y <- rnorm(100, mean = 150)
+plot(x, y)
+
+# count
+z <- floor(runif(n = 100, 0, 5))
+barplot(table(z))
+
+# serie
+u <- 1:100
+plot(u, x, type = 'l')
+
+```
+
+## Multivariado
+
+# Outliers
+
+## Univariado
+```{r}
+x <- c(rnorm(50, mean = 50), rnorm(1, mean = 75))
+x
+summary(x)
+hist(x)
+boxplot(x)
+
+
+```
+
+## Bivariado
+```{r}
+x <- c(50, 23, 26, 29)
+boxplot(x)
+y <- c(100, 51, 55, 70)
+boxplot(y)
+plot(x, y)
+
+```
+
+## Multivariado
+
+# solo para ninjas
+- https://cran.r-project.org/doc/contrib/rdebuts_es.pdf
+- https://dl.dropboxusercontent.com/u/12616850/R_Intro_for_Excel.pdf
+- http://www.cookbook-r.com/

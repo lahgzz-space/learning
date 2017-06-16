@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/F15162/Google Drive/learning"
+	],
+	"file_history":
+	[
+		"/C/Users/F15162/Workspace/matrix/ventas/sql/bt_sas_venta.sql",
+		"/C/Users/F15162/Workspace/cliente360/sales.R",
+		"/C/Users/F15162/Workspace/cliente360/script",
+		"/C/Users/F15162/Workspace/me/finance/pdf_txt.R",
+		"/C/Users/F15162/Workspace/me/social/elasticsearch",
+		"/C/Users/F15162/Workspace/me/social/install/get-pip.py",
+		"/C/Users/F15162/Workspace/recom/data/ratings_train.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/Keywords/Keyword Device 17-06-07.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/DSA/DSA 17-06-11.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/DSA/DSA 17-06-07.csv",
+		"/C/Users/F15162/Workspace/matrix/qv/data/names_7.txt",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/Shopping/Shopping 17-06-08.csv",
+		"/C/Users/F15162/Workspace/matrix/qv/output/adWords/Shopping 17-06-08 l.csv",
+		"/C/Users/F15162/Workspace/matrix/qv/output/adWords/DSA 17-06-08.csv",
+		"/C/Users/F15162/Workspace/matrix/qv/data/names_6.txt",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/DSA 17-06-06.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/DSA 17-06-07.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/DSA 17-06-08.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/data/aDSA 17-06-08.csv",
+		"/C/Users/F15162/validar.dsv",
+		"/Z/QV & Reports/Ultimate Metrics/DSA/DSA 17-06-07.csv",
+		"/Z/QV & Reports/Ultimate Metrics/luigi/DSA 17-06-08.csv",
+		"/Z/QV & Reports/Ultimate Metrics/DSA/DSA 17-06-08.csv",
+		"/Z/QV & Reports/Ultimate Metrics/DSA/DSA 17-06-08.txt",
+		"/C/Users/F15162/Downloads/__soft/elastic/data/insert",
+		"/C/Users/F15162/Downloads/install/elastic/elasticsearch-5.4.0/elasticsearch-5.4.0/config/elasticsearch.yml",
+		"/C/Users/F15162/Downloads/__soft/elastic/kibana-5.4.0-windows-x86/config/kibana.yml",
+		"/C/Users/F15162/Workspace/finance/output/temp.txt",
+		"/C/Users/F15162/Workspace/finance/output/out",
+		"/C/Users/F15162/Workspace/finance",
+		"/C/Users/F15162/Workspace/matrix/qv/keys",
+		"/C/Users/F15162/Workspace/hotsale/css/main.css",
+		"/C/Users/F15162/Desktop/hotsale_insights.Rmd",
+		"/C/Users/F15162/Workspace/fvg/projects/ventas_off/demo_ventas_off.nb.html",
+		"/C/Users/F15162/Desktop/ventas_off.Rmd",
+		"/C/Users/F15162/Workspace/hotsale/hotsale_insights.Rmd",
+		"/C/Users/F15162/Workspace/hotsale/sql/ventas.sql",
+		"/C/Users/F15162/Desktop/n.csv",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/data/names_4.txt",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/data/names_3.txt",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/data/names_2.txt",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/sql/queries.sql",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/R/ga_api_script.R",
+		"/C/Users/F15162/Workspace/fvg/.gitignore",
+		"/C/Users/F15162/Workspace/fvg/_libs/_bkp/RJDBC.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/output/stock.csv",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/docs/notes",
+		"/C/Users/F15162/Workspace/fvg/projects/ventas_off/R/get_prepare_data.R",
+		"/C/Users/F15162/Documents/R/R-3.3.3/library/taskscheduleR/extdata/helloworld.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/data/em/email.CSV",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/data/em/RV  stock en vtex.msg",
+		"/C/Users/F15162/Documents/ga.rga",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/notes",
+		"/C/Users/F15162/Workspace/asd/app.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/readme.Rmd",
+		"/C/Users/F15162/Workspace/fvg/projects/ventas_off/ventas_off.nb.html",
+		"/C/Users/F15162/Workspace/fvg/projects/dashboards/conversion/R/mysql/connect_mySQL.R",
+		"/C/Users/F15162/Workspace/fvg/projects/dashboards/conversion/R/get_data.R",
+		"/C/Users/F15162/Workspace/fvg/projects/dashboards/conversion/R/get_model.R",
+		"/C/Users/F15162/Workspace/fvg/_libs/_bkp/fvg_api_2.R",
+		"/C/Users/F15162/Workspace/fvg/projects/dashboards/conversion/R/rga/get_gaData.R",
+		"/C/Users/F15162/Workspace/fvg/_base/mySQL server notes",
+		"/C/Users/F15162/Workspace/fvg/projects/qv_automation/notes",
+		"/C/Users/F15162/Desktop/main.css",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/convApp.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/ui.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/get_data.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/server.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/www/custom.css",
+		"/C/Users/F15162/Desktop/404page.html",
+		"/C/Users/F15162/Workspace/fvg/_libs/plot_roc.R",
+		"/C/Users/F15162/Workspace/fvg/_libs/mysql.R",
+		"/C/Users/F15162/Workspace/conversion/.gitignore",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/css/custom.css",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/analysis.Rmd",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/main.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/_bkp/predict.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/_bkp/get_target.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/get_gaData_batchs.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/R/get_gaData.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/analysis.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/predict.R",
+		"/C/Users/F15162/Workspace/fvg/projects/conversion/main_2.R",
+		"/C/Users/F15162/Workspace/fvg/projects/ventas_off/R/fravega script synth.R",
+		"/C/Users/F15162/Downloads/v42i13.R",
+		"/C/Users/F15162/Workspace/fvg/projects/ventas_off/data/sas_suc_marzo.dsv",
+		"/C/Users/F15162/Workspace/projects/scoring.R",
+		"/C/Users/F15162/Workspace/projects/ventas_off/data/sas_suc_marzo.dsv",
+		"/C/Users/F15162/Workspace/projects/conversion/main.R",
+		"/C/Users/F15162/Workspace/projects/conversion/R/get_target.R",
+		"/C/Users/F15162/Workspace/projects/conversion/R/get_score.R",
+		"/C/Users/F15162/Workspace/projects/conversion/notes",
+		"/C/Users/F15162/Workspace/_libs/mysql/connect_mySQL.R",
+		"/C/Users/F15162/Workspace/_libs/mysql/connect_rga.R",
+		"/C/Users/F15162/Workspace/_libs/connect_mySQL.R",
+		"/C/Users/F15162/Workspace/db/test/creates.sql",
+		"/C/Users/F15162/Workspace/__dump/sql",
+		"/C/Users/F15162/Workspace/db/creates.sql",
+		"/C/Users/F15162/Workspace/_libs/_bkp/fvg_api_2.R",
+		"/C/Users/F15162/Workspace/projects/conversion/predict.R",
+		"/C/Users/F15162/Workspace/projects/conversion/analysis.R",
+		"/C/Users/F15162/Workspace/projects/conversion/main_2.R",
+		"/C/Users/F15162/Workspace/projects/conversion/sql/queries",
+		"/C/Users/F15162/Workspace/analysis/_temp/css/custom.css",
+		"/C/Users/F15162/Workspace/analysis/_temp/css/md_styles.css",
+		"/C/Users/F15162/Workspace/analysis/_temp/css/md_splendor.css",
+		"/C/Users/F15162/Workspace/projects/convertions/R/get_target.R",
+		"/C/Users/F15162/Workspace/projects/convertions/R/scoring.R",
+		"/C/Users/F15162/Workspace/analysis/horarias/main.R",
+		"/C/Users/F15162/Workspace/analysis/newsletter/explore.R",
+		"/C/Users/F15162/Desktop/main/workspace/ale/ale_skus.R",
+		"/C/Users/F15162/Desktop/main/workspace/ventas/hotsale.R",
+		"/C/Users/F15162/Desktop/main/workspace/lib/fvg_api_2.R",
+		"/C/Users/F15162/Desktop/main/workspace/mails/pageview_analysis.Rmd",
+		"/C/Users/F15162/Workspace/libs/connect_mySQL.R",
+		"/C/Users/F15162/Desktop/main/workspace/mails/pageview_analysis.nb.html",
+		"/C/Users/F15162/Workspace/_tables/bt_sas_ventas_1702.dsv",
+		"/C/Users/F15162/Workspace/r_script_tmp.R",
+		"/C/Users/F15162/Workspace/_tables/bt_sas_ventas_1701.dsv",
+		"/C/Users/F15162/Workspace/libs/mysql.R",
+		"/C/Users/F15162/Workspace/projects/_new/start_here_[rename.this].R",
+		"/C/Users/F15162/Desktop/main/workspace/explore.R",
+		"/C/Users/F15162/Desktop/main/sql",
+		"/C/Users/F15162/Workspace/projects/convertions/output/out.csv",
+		"/C/Users/F15162/Desktop/main/workspace/mails/R/load_clicks.R",
+		"/C/Users/F15162/Desktop/main/workspace/lib/mysql.R",
+		"/C/Users/F15162/Desktop/main/notes.txt",
+		"/C/Users/F15162/Desktop/art_rubro.csv"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"F_SAS_DESCUENTO",
+			" ",
+			"\"",
+			"17325",
+			"á",
+			"\"",
+			"á",
+			"\"",
+			"2017",
+			"java",
+			",",
+			".00",
+			"\\",
+			".",
+			",",
+			"Campaign",
+			"medium",
+			"Source",
+			"temp",
+			"puey",
+			"centro",
+			"FLori",
+			"corrien",
+			"centro",
+			"CORRIENTE",
+			"CENTRO",
+			"CENTROç",
+			"CENTRO0",
+			"CENTRO",
+			"32",
+			".main-header .sidebar-toggle {\n  display: none;\n}",
+			"-",
+			"VARCHAR(100)",
+			"VARCHAR(100) ",
+			" ",
+			"(100)",
+			" VARCHAR(100)",
+			" NULL",
+			"VARCHAR(100) NULL",
+			"\"",
+			"h1",
+			"font",
+			"font-family",
+			"font",
+			"roc",
+			"0.7",
+			"501253",
+			"c",
+			"780829",
+			"780607",
+			"780698",
+			"       ",
+			"  ",
+			"fecha",
+			"articuulo",
+			"\"\n",
+			"20170226",
+			"visitas_unicas",
+			"visitas",
+			"',\n",
+			"ar",
+			"('",
+			"yunieskys",
+			"gmail",
+			"file_path",
+			" ",
+			"    ",
+			"   ",
+			"NUL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"2017-06-08",
+			"a",
+			"",
+			"a",
+			"",
+			"/",
+			",",
+			";",
+			"ga:campaign",
+			"ga:medium",
+			"ga:source",
+			"#",
+			"IN VARCHAR",
+			" IN ",
+			" IN",
+			"",
+			"`",
+			"Unique Pageviews",
+			"Pageviews",
+			"in_path",
+			",",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learning.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

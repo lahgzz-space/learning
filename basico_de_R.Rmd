@@ -1,0 +1,105 @@
+---
+title: "Introducción a R"
+author: "marketingIntellence"
+output: 
+  html_notebook:
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+    number_sections: true
+
+---
+
+# Sobre este curso
+https://docs.google.com/presentation/d/1VY2oYNfvaIkzjKBxLp_AuG4Z-eydxgNe6-1PFLJVz4k/edit?usp=sharing
+
+# Tipos de datos
+
+## character()
+```{r}
+"hello world"
+
+```
+
+## numeric()
+```{r}
+pi; 2.76; NaN; Inf; -Inf
+
+```
+
+## integer()
+```{r}
+65
+
+```
+
+## logical()
+```{r}
+TRUE; F; NA 
+
+```
+
+## factor()
+```{r}
+factor("rojo"); factor(1)
+
+```
+
+### unordered factor
+```{r}
+as.factor(c("1", 2, "manzana"))
+
+```
+
+### ordered factor
+```{r}
+as.factor(c(1, 2, 5))
+
+```
+
+# Objetos
+
+## vector()
+```{r}
+c(1, 45, 56, NaN, Inf); c("auto", "mañana", "23 años"); c(1, NA, NaN, "smart tv")
+
+```
+
+### secuencias
+```{r}
+1:65
+8:5
+seq(as.Date('2017-06-1'), Sys.Date(), 1)
+LETTERS
+letters
+month.abb
+month.name
+
+```
+
+## matrix()
+```{r}
+matrix(nrow = 2, ncol = 5)
+
+```
+
+## data.frame()
+```{r}
+data.frame(matrix(nrow = 2, ncol = 5))
+data.frame(numero=1:26, minusculas=letters, MAYUSCULAS=LETTERS)
+iris
+mtcars
+
+```
+
+## list()
+```{r}
+list(c(1, 45, 56), matrix(nrow = 2, ncol = 5))
+
+```
+
+
+
+
